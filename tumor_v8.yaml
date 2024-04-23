@@ -1,4 +1,4 @@
-path: 'C:/Users/danid\WorkShop/Brain-Tumor-Detection'
+path: 'C:/Users/danid/WorkShop/Brain-Tumor-Detection'
 train: 'train/images'
 val: 'valid/images'
 test: 'test/images'
