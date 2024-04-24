@@ -1,6 +1,6 @@
 task: detect
 mode: train
-model: yolov8s.pt
+model: yolov8n.pt
 data: tumor_v8.yaml
 epochs: 5
 time: null
