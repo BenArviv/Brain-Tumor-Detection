@@ -1,0 +1,9 @@
+path: '/Users/benarviv/Documents/OpenU/2024א/Data Science Workshop/Data Science Project/Brain-Tumor-Detection' 
+train: 'train/images'
+val: 'valid/images'
+
+#class names
+names:
+    0: '0'
+    1: '1'
+    2: '2'
