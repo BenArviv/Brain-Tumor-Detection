@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-path: '/Users/benarviv/Documents/OpenU/2024א/Data Science Workshop/Data Science Project/Brain-Tumor-Detection'
-=======
-path: 'C:/Users/danid/WorkShop/Brain-Tumor-Detection'
->>>>>>> b4e44f2b3ef48de8b982949c31fcdee1058e41d6
+path: '/Users/benarviv/Documents/OpenU/2024א/Data Science Workshop/Data Science Project/Brain-Tumor-Detection' 
 train: 'train/images'
 val: 'valid/images'
-test: 'test/images'
 
 #class names
 names:
-    0: 'type1'
-    1: 'type2'
-    2: 'type3'
+    0: '0'
+    1: '1'
+    2: '2'
