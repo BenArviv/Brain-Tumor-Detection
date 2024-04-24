@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 path: 'C:/Users/danid/WorkShop/Brain-Tumor-Detection' 
+=======
+<<<<<<< HEAD
+path: '/Users/benarviv/Documents/OpenU/2024א/Data Science Workshop/Data Science Project/Brain-Tumor-Detection'
+=======
+path: 'C:/Users/danid/WorkShop/Brain-Tumor-Detection'
+>>>>>>> b4e44f2b3ef48de8b982949c31fcdee1058e41d6
+>>>>>>> a48e2629dab37eb38505710cafcd009e86953b70
 train: 'train/images'
 val: 'valid/images'
 

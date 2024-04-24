@@ -1,6 +1,14 @@
 task: detect
 mode: train
+<<<<<<< HEAD
+<<<<<<< HEAD
+model: yolov8s.pt
+=======
 model: yolov8n.pt
+>>>>>>> b4e44f2b3ef48de8b982949c31fcdee1058e41d6
+=======
+model: yolov8s.pt
+>>>>>>> a48e2629dab37eb38505710cafcd009e86953b70
 data: tumor_v8.yaml
 epochs: 5
 time: null
@@ -103,4 +111,16 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
+<<<<<<< HEAD
+<<<<<<<< HEAD:runs/detect/output6/args.yaml
 save_dir: runs\detect\output6
+========
+<<<<<<< HEAD
+save_dir: runs/detect/output3
+=======
+save_dir: runs\detect\output3
+>>>>>>> b4e44f2b3ef48de8b982949c31fcdee1058e41d6
+>>>>>>>> a48e2629dab37eb38505710cafcd009e86953b70:runs/detect/output3/args.yaml
+=======
+save_dir: runs/detect/output6
+>>>>>>> a48e2629dab37eb38505710cafcd009e86953b70
