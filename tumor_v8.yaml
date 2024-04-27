@@ -1,0 +1,8 @@
+path: 'C:/Users/danid/WorkShop/Brain-Tumor-Detection'
+train: 'newTrain/images'
+val: 'valid/images'
+test: 'test/images'
+
+#class names
+names:
+    0: '1'
