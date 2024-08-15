@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9873a2fe-7150-4f25-8ddc-cb7808a1fdc1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Brain Tumor Detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Brain Tumor Detection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Custom models/ResNet18/Train losses.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Custom models/ResNet18/Train losses.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Custom models/ResNet18/Val Losses.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Custom models/ResNet18/Val Losses.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Custom models/ResNet18/Weights.pth" beforeDir="false" afterPath="$PROJECT_DIR$/Custom models/ResNet18/Weights.pth" afterDir="false" />
-    </list>
+    <list default="true" id="9873a2fe-7150-4f25-8ddc-cb7808a1fdc1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722587933950</updated>
-      <workItem from="1723492735568" duration="2408000" />
+      <workItem from="1723492735568" duration="3039000" />
     </task>
     <servers />
   </component>
